@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-
 **Change World Positive:**
 
 🙋‍♀️ Social WEB Project
@@ -9,4 +7,4 @@
 👩‍💻 We will provide information on the WEB Platform ASAP
 🍿 Our team eats programming languages ​​for breakfast because we started from zero :-)
 🧙 
--->
+
